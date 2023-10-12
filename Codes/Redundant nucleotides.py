@@ -14,4 +14,4 @@ with open("Datasets/Virus.txt") as file:
             line_count += 1
 
 print("Redundant sequences: ", line_count)
-print("Percentage of redundant sequences:", line_count/i*100
+print("Percentage of redundant sequences:", line_count/i*100)
